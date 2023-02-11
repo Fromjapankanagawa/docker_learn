@@ -24,7 +24,9 @@
 - $docker stop <container>
 - $docker rm <contianer>
 コンテナの全削除
-- $docker system prune
+- $docker system prune 
+-
+
 
 --------------------------------------------------------------------------------------------------------
 - Dockerfileの作成
